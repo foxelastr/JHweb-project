@@ -1,3 +1,3 @@
 # JHweb-project
 
-# bae's lecture nt
+# bae's lecture script
